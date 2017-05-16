@@ -1,0 +1,1 @@
+### Sample app showing how to use [Smart Lock for Passwords](https://developers.google.com/identity/smartlock-passwords/android/) on Android to auto sign in users onto the app
